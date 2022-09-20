@@ -3,7 +3,7 @@
 A collection of awesome things
 
 📌Computer Scines
-  - [CS](https://github.com/prakhar1989/awesome-courses)
+    - [CS](https://github.com/prakhar1989/awesome-courses)
 
 📌Linux, Shell
   - [Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
