@@ -3,5 +3,5 @@
 A collection of awesome things
 
 - [Frontend](#react)
-  - ([#ReactJS](https://github.com/enaqx/awesome-react))
-  - [(#Vuejs)](https://github.com/vuejs/awesome-vue)
+  - [ReactJS](https://github.com/enaqx/awesome-react)
+  - [Vuejs](https://github.com/vuejs/awesome-vue)
