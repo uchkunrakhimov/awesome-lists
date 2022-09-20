@@ -79,4 +79,8 @@
 
 
 ### Math
+<<<<<<< HEAD
   - [Math](https://github.com/rossant/awesome-math)
+=======
+  - [Math](https://github.com/rossant/awesome-math)
+>>>>>>> upstream/main
