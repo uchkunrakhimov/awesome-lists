@@ -1,11 +1,12 @@
 # Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/uchkunrakhimov/awesome-lists)
 
-A collection of awesome things
 
 📌Computer Scines
-    - [CS](https://github.com/prakhar1989/awesome-courses)
+
+  - [CS](https://github.com/prakhar1989/awesome-courses)
 
 📌Linux, Shell
+
   - [Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
   - [Linux](https://github.com/inputsh/awesome-linux)
   - [Shell](https://github.com/alebcay/awesome-shell)
@@ -13,15 +14,18 @@ A collection of awesome things
   - [Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 📌Windows
+
   - [Windows](https://github.com/Awesome-Windows/Awesome)
   - [Powershell](https://github.com/janikvonrotz/awesome-powershell)
   - [WSL](https://github.com/sirredbeard/Awesome-WSL)
 
 📌MacOS
+
   - [Mac](https://github.com/jaywcjlove/awesome-mac)
   - [Macos Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 📌Programming Languages
+
   - [C](https://github.com/oz123/awesome-c)
   - [C++](https://github.com/fffaraz/awesome-cpp)
   - [GO](https://github.com/avelino/awesome-go)
@@ -35,6 +39,7 @@ A collection of awesome things
   - [TypeScript EN](https://github.com/dzharii/awesome-typescript)
 
 📌Frontend
+
   - [HTML5](https://github.com/diegocard/awesome-html5)
   - [CSS](https://github.com/awesome-css-group/awesome-css)
   - [SASS](https://github.com/Famolus/awesome-sass)
@@ -48,6 +53,7 @@ A collection of awesome things
     - [ViteJS](https://github.com/vitejs/awesome-vite)
 
 📌Backend
+
   - [Backend](https://github.com/zhashkevych/awesome-backend)
   - [NodeJS](https://github.com/sindresorhus/awesome-nodejs)
   - [PHP](https://github.com/ziadoz/awesome-php)
@@ -56,6 +62,7 @@ A collection of awesome things
   - [DJango](https://github.com/wsvincent/awesome-django)
 
 📌DataBase
+
   - [SQL](https://github.com/dahlia/awesome-sqlalchemy)
     - [SQL](https://github.com/danhuss/awesome-sql)
     - [MySQL](https://github.com/shlomi-noach/awesome-mysql)
@@ -65,10 +72,13 @@ A collection of awesome things
 
 
 📌Interviews
+
   - [Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
 
 📌Books
+
   - [Books](https://github.com/learn-anything/books)
 
 📌Math
+
   - [Math](https://github.com/rossant/awesome-math)
