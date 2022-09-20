@@ -2,7 +2,7 @@
 
 
 <ul>
-  <p>📌Computer Scines</p>
+📌Computer Scines
   <li>[CS](https://github.com/prakhar1989/awesome-courses)</li>
 </ul>
 
