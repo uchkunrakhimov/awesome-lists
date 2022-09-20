@@ -4,6 +4,7 @@
 📌Computer Scines
   - [CS](https://github.com/prakhar1989/awesome-courses)
 
+
 📌Linux, Shell
   - [Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
   - [Linux](https://github.com/inputsh/awesome-linux)
@@ -11,14 +12,17 @@
   - [Bash](https://github.com/awesome-lists/awesome-bash)
   - [Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
+
 📌Windows
   - [Windows](https://github.com/Awesome-Windows/Awesome)
   - [Powershell](https://github.com/janikvonrotz/awesome-powershell)
   - [WSL](https://github.com/sirredbeard/Awesome-WSL)
 
+
 📌MacOS
   - [Mac](https://github.com/jaywcjlove/awesome-mac)
   - [Macos Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+
 
 📌Programming Languages
   - [C](https://github.com/oz123/awesome-c)
@@ -33,6 +37,7 @@
   - [TypeScript CN](https://github.com/semlinker/awesome-typescript)
   - [TypeScript EN](https://github.com/dzharii/awesome-typescript)
 
+
 📌Frontend
   - [HTML5](https://github.com/diegocard/awesome-html5)
   - [CSS](https://github.com/awesome-css-group/awesome-css)
@@ -46,6 +51,7 @@
     - [AngularJS](https://github.com/PatrickJS/awesome-angular)
     - [ViteJS](https://github.com/vitejs/awesome-vite)
 
+
 📌Backend
   - [Backend](https://github.com/zhashkevych/awesome-backend)
   - [NodeJS](https://github.com/sindresorhus/awesome-nodejs)
@@ -53,6 +59,7 @@
     - [Laravel](https://github.com/chiraggude/awesome-laravel)
     - [Yii2](https://github.com/forecho/awesome-yii2)
   - [DJango](https://github.com/wsvincent/awesome-django)
+
 
 📌DataBase
   - [SQL](https://github.com/dahlia/awesome-sqlalchemy)
@@ -66,8 +73,10 @@
 📌Interviews
   - [Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
 
+
 📌Books
   - [Books](https://github.com/learn-anything/books)
+
 
 📌Math
   - [Math](https://github.com/rossant/awesome-math)
