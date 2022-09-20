@@ -1,30 +1,30 @@
-# Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/uchkunrakhimov/awesome-lists)
+# Awesome Lists [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/uchkunrakhimov/awesome-lists)
 
 
-# Computer Scines
+### Computer Scines
   - [CS](https://github.com/prakhar1989/awesome-courses)
 
 
-# Linux, Shell
-  - [Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+### Linux, Shell
   - [Linux](https://github.com/inputsh/awesome-linux)
+  - [Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
   - [Shell](https://github.com/alebcay/awesome-shell)
   - [Bash](https://github.com/awesome-lists/awesome-bash)
   - [Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 
-📌Windows
+### Windows
   - [Windows](https://github.com/Awesome-Windows/Awesome)
   - [Powershell](https://github.com/janikvonrotz/awesome-powershell)
   - [WSL](https://github.com/sirredbeard/Awesome-WSL)
 
 
-📌MacOS
+### MacOS
   - [Mac](https://github.com/jaywcjlove/awesome-mac)
   - [Macos Apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 
-📌Programming Languages
+### Programming Languages
   - [C](https://github.com/oz123/awesome-c)
   - [C++](https://github.com/fffaraz/awesome-cpp)
   - [GO](https://github.com/avelino/awesome-go)
@@ -38,7 +38,7 @@
   - [TypeScript EN](https://github.com/dzharii/awesome-typescript)
 
 
-📌Frontend
+### Frontend
   - [HTML5](https://github.com/diegocard/awesome-html5)
   - [CSS](https://github.com/awesome-css-group/awesome-css)
   - [SASS](https://github.com/Famolus/awesome-sass)
@@ -52,7 +52,7 @@
     - [ViteJS](https://github.com/vitejs/awesome-vite)
 
 
-📌Backend
+### Backend
   - [Backend](https://github.com/zhashkevych/awesome-backend)
   - [NodeJS](https://github.com/sindresorhus/awesome-nodejs)
   - [PHP](https://github.com/ziadoz/awesome-php)
@@ -61,7 +61,7 @@
   - [DJango](https://github.com/wsvincent/awesome-django)
 
 
-📌DataBase
+### DataBase
   - [SQL](https://github.com/dahlia/awesome-sqlalchemy)
     - [SQL](https://github.com/danhuss/awesome-sql)
     - [MySQL](https://github.com/shlomi-noach/awesome-mysql)
@@ -70,13 +70,13 @@
     - [MongoDB](https://github.com/ramnes/awesome-mongodb)
 
 
-📌Interviews
+### Interviews
   - [Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
 
 
-📌Books
+### Books
   - [Books](https://github.com/learn-anything/books)
 
 
-📌Math
+### Math
   - [Math](https://github.com/rossant/awesome-math)
