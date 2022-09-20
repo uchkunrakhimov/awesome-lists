@@ -1,10 +1,8 @@
 # Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/uchkunrakhimov/awesome-lists)
 
 
-<ul>
 📌Computer Scines
-  <li>[CS](https://github.com/prakhar1989/awesome-courses)</li>
-</ul>
+  - [CS](https://github.com/prakhar1989/awesome-courses)
 
 📌Linux, Shell
   - [Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
