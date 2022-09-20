@@ -2,6 +2,14 @@
 
 A collection of awesome things
 
-- [Frontend](#react)
+- [Frontend]
+  - [HTML5](https://github.com/diegocard/awesome-html5)
+  - [CSS](https://github.com/awesome-css-group/awesome-css)
+  - [SASS](https://github.com/Famolus/awesome-sass)
+  - [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
+  - [VueJS](https://github.com/vuejs/awesome-vue)
+    - [NuxtJS](https://github.com/nuxt-community/awesome-nuxt)
   - [ReactJS](https://github.com/enaqx/awesome-react)
-  - [Vuejs](https://github.com/vuejs/awesome-vue)
+    - [NextJS](https://github.com/unicodeveloper/awesome-nextjs)
+  - [AngularJS](https://github.com/PatrickJS/awesome-angular)
+  - [ViteJS](https://github.com/vitejs/awesome-vite)
